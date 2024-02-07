@@ -1,0 +1,34 @@
+# dependencies
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# testing
+/coverage
+/.nyc_output
+
+# production
+/dist
+
+# misc
+.DS_Store
+.env
+.env.test
+.env.production
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Debug logs from npm
+npm-debug.log*
